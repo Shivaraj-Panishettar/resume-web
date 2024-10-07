@@ -44,7 +44,7 @@ My portfolio is powered by the following technologies:
 
 Let’s connect! I’d love to collaborate, chat, or discuss new opportunities! 😊
 
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: shivrajamaresh@gmail.com
 - 💼 **LinkedIn**: [Your LinkedIn Profile](#)
 - 🐙 **GitHub**: [Your GitHub Profile](#)
 
